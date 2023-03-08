@@ -3,3 +3,5 @@ hola me llamo Alan.
 Naci en Argentina y tengo 25 años.
 Viviendo en Cordoba.
 Me gusta jugar al padel.
+
+Me interesa bitcoin y su tecnologia blockchain.
